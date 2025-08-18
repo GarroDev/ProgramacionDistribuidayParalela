@@ -18,7 +18,7 @@ public static void main(String[] args) {
             System.out.print("Número de meses: ");
             int meses = sc.nextInt();
 
-            // Rango de salarios aleatorios (puedes ajustarlo)
+            // Rango de salarios aleatorios
             int min = 800;   // salario mínimo simulado en USD
             int max = 2500;  // salario máximo simulado en USD
 
